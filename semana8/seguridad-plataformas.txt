@@ -1,0 +1,6 @@
+PREGUNTA#8
+R//Verificar la identidad de los usuarios al registrarse.
+Mantener el sistema y las aplicaciones actualizadas.
+Realizar copias de seguridad periódicas de la información.
+Evitar compartir información confidencial en espacios públicos.
+Capacitar a los usuarios sobre seguridad digital y prevención de fraudes.

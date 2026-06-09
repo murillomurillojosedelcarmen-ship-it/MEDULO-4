@@ -1,0 +1,5 @@
+PREGUNTA#6
+R//Usar contraseñas seguras.
+Activar la verificación en dos pasos.
+Evitar abrir enlaces sospechosos
+verficar que la plataforma sea segura
