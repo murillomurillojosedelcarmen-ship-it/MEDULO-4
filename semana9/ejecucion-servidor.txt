@@ -1,0 +1,14 @@
+PREGUNTA#7
+R//Qué ocurre cuando ejecutas node server.js?
+Se inicia el servidor y queda esperando solicitudes.
+
+¿Qué mensaje aparece en la terminal?
+Generalmente aparece un mensaje parecido a:
+Servidor ejecutándose en http://localhost:3000
+(puede cambiar según el código y el puerto configurado).
+
+¿Qué sucede cuando visitas la ruta /estado?
+El servidor responde con la información configurada para esa ruta,
+ normalmente un mensaje de estado como:
+Servidor activo o una respuesta indicando que el sistema
+ está funcionando.

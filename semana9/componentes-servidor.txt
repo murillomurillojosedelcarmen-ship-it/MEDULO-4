@@ -1,0 +1,23 @@
+PREGUNTA#8
+R//
+Sistema operativo:
+Administra los recursos del computador como memoria
+ archivos y procesos.
+Permite que los programas funcionen correctamente.
+
+Node.js:
+Es un entorno que permite ejecutar código JavaScript fuera
+ del navegador.
+Se usa para crear servidores y aplicaciones web.
+
+Aplicación server.js:
+Es el archivo donde está el código del servidor.
+Define cómo responde a las solicitudes de los usuarios.
+
+Puerto:
+Es un punto de comunicación por donde el servidor recibe conexiones.
+Permite acceder a servicios específicos dentro del sistema.
+
+Logs:
+Son registros que guardan eventos y actividades del servidor.
+Ayudan a monitorear el funcionamiento y detectar errores.
